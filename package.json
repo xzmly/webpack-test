@@ -1,0 +1,38 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "webpack配置记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzmly/webpack-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xzmly/webpack-test/issues"
+  },
+  "homepage": "https://github.com/xzmly/webpack-test#readme",
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "css-loader": "^0.28.7",
+    "eslint": "^4.11.0",
+    "eslint-loader": "^1.9.0",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.6.1",
+    "postcss": "^6.0.14",
+    "postcss-loader": "^2.0.8",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "less": "^2.7.3",
+    "lodash": "^4.17.4"
+  }
+}

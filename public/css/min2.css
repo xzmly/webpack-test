@@ -1,0 +1,9 @@
+body {
+  background: #222;
+}
+#div {
+  background: #fff;
+}
+#div > span {
+  color: red;
+}
